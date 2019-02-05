@@ -5,4 +5,4 @@ At each generation, a new population is created by the process of selecting indi
 in the problem domain, and recombining them together using operators borrowed from natural genetics.
 
 ## Flow chart for Genetic Algorithm
-
+![Screenshot](Capture.PNG)
