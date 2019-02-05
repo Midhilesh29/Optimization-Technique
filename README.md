@@ -6,3 +6,6 @@ in the problem domain, and recombining them together using operators borrowed fr
 
 ## Flow chart for Genetic Algorithm
 ![Screenshot](Capture.PNG)
+
+## Fitness function
+mean square error is used as fitness function
